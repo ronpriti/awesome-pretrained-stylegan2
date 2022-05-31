@@ -65,6 +65,19 @@
     "Notes": ""
   },
   {
+    "name": "Minecraft",
+    "download_url": "https://github.com/jeffheaton/pretrained-gan-minecraft/releases/download/v1/minecraft-gan-2020-12-22.pkl",
+    "author": "Jeff Heaton",
+    "author_url": "",
+    "dataset": "Minecraft",
+    "source_url": "https://github.com/jeffheaton/pretrained-gan-minecraft",
+    "resolution": "1024x1024",
+    "config": "e",
+    "license": "Nvidia Source Code License-NC",
+    "implementation": "https://github.com/jeffheaton/pretrained-gan-minecraft",
+    "Notes": ""
+  },
+  {
     "name": "faces (FFHQ config-e 256x256)",
     "download_url": "https://drive.google.com/uc?id=1BUL-RIzXC7Bpnz2cn230CbA4eT7_Etp0",
     "author": "Justin Pinkney",
